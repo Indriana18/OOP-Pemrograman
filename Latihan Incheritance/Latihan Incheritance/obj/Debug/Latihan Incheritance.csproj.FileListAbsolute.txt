@@ -1,0 +1,7 @@
+D:\18.11.2276\Latihan Incheritance\Latihan Incheritance\obj\Debug\Latihan Incheritance.csprojAssemblyReference.cache
+D:\18.11.2276\Latihan Incheritance\Latihan Incheritance\obj\Debug\Latihan Incheritance.csproj.CoreCompileInputs.cache
+D:\18.11.2276\Latihan Incheritance\Latihan Incheritance\bin\Debug\Latihan Incheritance.exe.config
+D:\18.11.2276\Latihan Incheritance\Latihan Incheritance\bin\Debug\Latihan Incheritance.exe
+D:\18.11.2276\Latihan Incheritance\Latihan Incheritance\bin\Debug\Latihan Incheritance.pdb
+D:\18.11.2276\Latihan Incheritance\Latihan Incheritance\obj\Debug\Latihan Incheritance.exe
+D:\18.11.2276\Latihan Incheritance\Latihan Incheritance\obj\Debug\Latihan Incheritance.pdb
